@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/yashraj-JSRG/static/css/main.598f3a70.css",
-    "main.js": "/yashraj-JSRG/static/js/main.e35a748a.js",
+    "main.js": "/yashraj-JSRG/static/js/main.7a7a4cc7.js",
     "static/js/453.c4da3110.chunk.js": "/yashraj-JSRG/static/js/453.c4da3110.chunk.js",
     "index.html": "/yashraj-JSRG/index.html",
     "main.598f3a70.css.map": "/yashraj-JSRG/static/css/main.598f3a70.css.map",
-    "main.e35a748a.js.map": "/yashraj-JSRG/static/js/main.e35a748a.js.map",
+    "main.7a7a4cc7.js.map": "/yashraj-JSRG/static/js/main.7a7a4cc7.js.map",
     "453.c4da3110.chunk.js.map": "/yashraj-JSRG/static/js/453.c4da3110.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.598f3a70.css",
-    "static/js/main.e35a748a.js"
+    "static/js/main.7a7a4cc7.js"
   ]
 }

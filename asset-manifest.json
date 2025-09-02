@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/authunication_YSG/static/css/main.f6755db6.css",
+    "main.js": "/authunication_YSG/static/js/main.dd116857.js",
+    "static/js/453.373f0a2e.chunk.js": "/authunication_YSG/static/js/453.373f0a2e.chunk.js",
+    "index.html": "/authunication_YSG/index.html",
+    "main.f6755db6.css.map": "/authunication_YSG/static/css/main.f6755db6.css.map",
+    "main.dd116857.js.map": "/authunication_YSG/static/js/main.dd116857.js.map",
+    "453.373f0a2e.chunk.js.map": "/authunication_YSG/static/js/453.373f0a2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6755db6.css",
+    "static/js/main.dd116857.js"
+  ]
+}

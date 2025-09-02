@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/authunication_YSG/static/css/main.f6755db6.css",
-    "main.js": "/authunication_YSG/static/js/main.dd116857.js",
-    "static/js/453.373f0a2e.chunk.js": "/authunication_YSG/static/js/453.373f0a2e.chunk.js",
-    "index.html": "/authunication_YSG/index.html",
-    "main.f6755db6.css.map": "/authunication_YSG/static/css/main.f6755db6.css.map",
-    "main.dd116857.js.map": "/authunication_YSG/static/js/main.dd116857.js.map",
-    "453.373f0a2e.chunk.js.map": "/authunication_YSG/static/js/453.373f0a2e.chunk.js.map"
+    "main.css": "/yashraj-JSRG/static/css/main.598f3a70.css",
+    "main.js": "/yashraj-JSRG/static/js/main.a960ea34.js",
+    "static/js/453.c4da3110.chunk.js": "/yashraj-JSRG/static/js/453.c4da3110.chunk.js",
+    "index.html": "/yashraj-JSRG/index.html",
+    "main.598f3a70.css.map": "/yashraj-JSRG/static/css/main.598f3a70.css.map",
+    "main.a960ea34.js.map": "/yashraj-JSRG/static/js/main.a960ea34.js.map",
+    "453.c4da3110.chunk.js.map": "/yashraj-JSRG/static/js/453.c4da3110.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6755db6.css",
-    "static/js/main.dd116857.js"
+    "static/css/main.598f3a70.css",
+    "static/js/main.a960ea34.js"
   ]
 }
